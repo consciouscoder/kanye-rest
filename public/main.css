@@ -1,0 +1,13 @@
+.container-songs {
+    display: inline-block;
+    width: 30%;
+    background-color: White;
+    
+}
+
+.lyrics-box {
+    display: inline;
+    float: right;
+    width: 65%;
+    background-color: PeachPuff;
+}
